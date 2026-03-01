@@ -1,16 +1,21 @@
 # Pokémon-Themed Archive Portfolio
 
-A playful, Pokémon-inspired portfolio site built as an archive/alt portfolio to complement my main one at [anuj-kulkarni-portfolio.vercel.app](https://anuj-kulkarni-portfolio.vercel.app/). Design inspiration credits to Pocholo Nicolas Q. De Leon, with custom tweaks and content by Anuj C. Kulkarni (myself).
+This is a fun Pokémon-style portfolio website. It is an extra/archive version of my main portfolio: [anuj-kulkarni-portfolio.vercel.app](https://anuj-kulkarni-portfolio.vercel.app/).
+
+The design idea is inspired by Pocholo Nicolas Q. De Leon. I (Anuj C. Kulkarni) customized the content and styling.
 
 ## Highlights
-- Characterful Pokémon look and feel with animated section reveals and custom pixel font
-- Sections for Home, About, FAQ, Experience, and Contact with smooth in-page navigation
-- Mobile-friendly navigation with hamburger menu toggle
-- Social links, badges, and outreach info front and center for quick contact
+- Pokémon-style design with simple animations and a pixel font
+- Main sections: Home, About, FAQ, Experience, and Contact
+- Smooth page navigation
+- Mobile menu with hamburger button
+- Quick access to social links and contact info
 
 ## Tech Stack
-- HTML, CSS, JavaScript
-- Local assets: custom font and Pokémon-themed imagery (educational/fair-use intent)
+- HTML
+- CSS
+- JavaScript
+- Local assets (custom font and Pokémon-themed images)
 
 ## Project Structure
 ```text
@@ -21,20 +26,22 @@ A playful, Pokémon-inspired portfolio site built as an archive/alt portfolio to
 │   └── images/
 │       ├── pokeball.png, greatball.png, ultraball.png
 │       ├── avatar + social icons (github, linkedin, instagram, X)
-│       ├── section art (morning.png, rubyintro.png, etc.)
-│       └── misc icons (faq, medals, clubs, badges)
+│       ├── section images (morning.png, rubyintro.png, etc.)
+│       └── other icons (faq, medals, clubs, badges)
 ├── code/
-│   ├── index.html   # markup for Home, About, FAQ, Experience, Contact
-│   ├── style.css    # layout, theming, responsive styles, animations
-│   └── script.js    # scroll-triggered reveals and mobile nav toggle
+│   ├── index.html   # page structure and sections
+│   ├── style.css    # layout, colors, responsive design, animations
+│   └── script.js    # section reveal effects and mobile menu toggle
 └── README.md
 ```
 
 ## Run Locally
-1) Clone or download this repository.
-2) Open code/index.html directly in your browser, or serve the code/ folder with any static server.
+1. Clone or download this repository.
+2. Open `code/index.html` in your browser.
+
+You can also run the `code/` folder with any basic static server.
 
 ## Credits
-- Core design inspiration: Pocholo Nicolas Q. De Leon
-- Customization and content: Anuj C. Kulkarni
-- Pokémon assets belong to their respective owners and are used here for educational showcase only.
+- Design inspiration: Pocholo Nicolas Q. De Leon
+- Custom content and edits: Anuj C. Kulkarni
+- Pokémon assets belong to their respective owners and are used here for educational/demo purposes.
