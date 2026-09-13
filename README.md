@@ -1,12 +1,14 @@
 # Pokémon-Themed Archive Portfolio
 
-This is a fun Pokémon-style portfolio website. It is an extra/archive version of my main portfolio: [anuj-kulkarni-portfolio.vercel.app](https://anuj-kulkarni-portfolio.vercel.app/).
+This is a fun Pokémon-style journey portfolio. It is an extra/archive version of my main portfolio: [anuj-kulkarni-portfolio.vercel.app](https://anuj-kulkarni-portfolio.vercel.app/). The current portfolio shows what I can do now; this site keeps the story of how I got here.
 
 The design idea is inspired by Pocholo Nicolas Q. De Leon. I (Anuj C. Kulkarni) customized the content and styling.
 
 ## Highlights
 - Pokémon-style design with simple animations and a pixel font
-- Main sections: Home, About, FAQ, Experience, and Contact
+- Main sections: Home, About, FAQ & Field Notes, Experience, and Contact
+- Career journey from Smart Manufacturing and CAD through Machine Learning, open source, and Data Analytics
+- Current focus on Data Analysis and Business Intelligence with Python, SQL, Power BI, DAX, Power Query, ETL, and data modeling
 - Smooth page navigation
 - Mobile menu with hamburger button
 - Quick access to social links and contact info
